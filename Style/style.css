@@ -1,7 +1,11 @@
 .testado {
-    background-color: rgba(200,40,60,0.23);
+    background-color: rgba(0,0,255,0.23);
     margin: 5px;
     padding: 20px;
 
-    margin: 20px;
+    margin: 20px 40px;
+
+    padding-top: 400px;
+
+    border: 10px double red
 }
