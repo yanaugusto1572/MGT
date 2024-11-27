@@ -1,3 +1,8 @@
+body {
+    width: 50%;
+    font-size: 2em;
+}
+
 .testado {
     background-color: rgba(0,0,255,0.23);
     margin: 5px;
@@ -7,5 +12,28 @@
 
     padding-top: 400px;
 
-    border: 10px double red
+    border: 10px double red;
+
+    width: 50%;
 }
+
+/* .descricao-produto, .descricao-produto2 {
+    background-color: red;
+} */
+
+.promocao {
+    border: solid black 10px;
+}
+
+.produto {
+    background-color: blueviolet;
+}
+
+.produto span {
+    background-color: red;
+}
+
+.one {
+    background-color: blue;
+}
+
