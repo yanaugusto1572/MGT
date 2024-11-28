@@ -1,6 +1,14 @@
 body {
-    width: 50%;
-    font-size: 2em;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+
+.pixel {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border: solid 10px black;
+    box-sizing: border-box;
 }
 
 .testado {
@@ -14,7 +22,7 @@ body {
 
     border: 10px double red;
 
-    width: 50%;
+    font-size: 1rem;
 }
 
 /* .descricao-produto, .descricao-produto2 {
@@ -36,4 +44,5 @@ body {
 .one {
     background-color: blue;
 }
+
 
