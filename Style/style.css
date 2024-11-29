@@ -3,6 +3,14 @@ body {
     overflow-x: hidden;
 }
 
+header {
+    background-color: gray;
+    border-bottom: solid 5px;
+    font-size: 30px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
 .pixel {
     background-color: aqua;
     width: 100px;
